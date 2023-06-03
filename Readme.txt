@@ -1,7 +1,7 @@
 WordCount 1.2.0
 
 Description:
-The program can read a text file and count the occurrencies of single
+The program can read a text file and count the occurrences of single
 words and clusters of 2 and 3 words. The resulting list will be sorted in
 descending order (highest frequency on top).
 
@@ -17,11 +17,11 @@ Instructions:
 - File-Quit (Alt-Q) to quit the program
 - Alt-F to open the file menu and navigate it with the keyboard
 
-Edit the config.ini file to set minimum occurrencies number:
+Edit the config.ini file to set minimum occurrences number:
 
-Row n. 1: minimum occurrencies of single words
-Row n. 2: minimum occurrencies of two-word clusters
-Row n. 3: minimum occurrencies of three-word clusters
+Row n. 1: minimum occurrences of single words
+Row n. 2: minimum occurrences of two-word clusters
+Row n. 3: minimum occurrences of three-word clusters
 
 
 ----------------------------------
@@ -32,7 +32,7 @@ New in this version:
 
 ----------------------------------
 
-WordCount 1.2.0 - Count occurrencies of single words and clusters of 2
+WordCount 1.2.0 - Count occurrences of single words and clusters of 2
 and 3 words in a text file.
 Copyright (C) 2022  Fonazza-Stent
 
