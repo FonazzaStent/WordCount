@@ -1,4 +1,4 @@
-"""WordCount 1.1.1 - Count occurrencies of single words and clusters of 2
+"""WordCount 1.1.1 - Count occurrences of single words and clusters of 2
 and 3 words in a text file.
 Copyright (C) 2022  Fonazza-Stent
 
